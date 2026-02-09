@@ -64,9 +64,9 @@ dependencies {
     //Firebase BOM
     implementation(platform("com.google.firebase:firebase-bom:34.9.0"))
     // Firebase Auth
-    implementation("com.google.firebase:firebase-auth-ktx")
+    implementation("com.google.firebase:firebase-auth-ktx:23.2.1")
     // Firestore
-    implementation("com.google.firebase:firebase-firestore-ktx")
+    implementation("com.google.firebase:firebase-firestore-ktx:25.1.4")
 
     implementation("androidx.core:core-ktx:1.17.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.10.0")
