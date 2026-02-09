@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468844856448",
+    "project_id": "moodtracker-1ff53",
+    "storage_bucket": "moodtracker-1ff53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468844856448:android:361b8a700e318bb1c39265",
+        "android_client_info": {
+          "package_name": "com.odwa.moodtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnraleOfco07s5soF5OdK-7Sj8WUc4GO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
