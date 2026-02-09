@@ -20,8 +20,8 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Give permission to gradlew
-        run: chmod +x gradlew
+      - name: Make gradlew executable
+        run: chmod +x ./gradlew
 
       - name: Build Debug APK
         run: ./gradlew assembleDevDebug
